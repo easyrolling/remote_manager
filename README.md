@@ -7,4 +7,3 @@ Optional routing of output from shell process into a Socket of choice
 
 Spin up or terminate any process with a click of a button
 
-
